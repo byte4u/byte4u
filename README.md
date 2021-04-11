@@ -1,4 +1,4 @@
-![](/byte4u/logo.png)
+![(/byte4u/logo.png)]
 
 
 - 👋 Hello! I’m Samah from Brazil. I'm a Systems Analyst, Scrum Master and CEO of BYTE4U. I'm passionate about data.
