@@ -1,10 +1,10 @@
-![](/byte4u/logo.png) 
+![byte4u](/byte4u/logo.png) 
 
 
-- 👋 Hello! I’m Samah from Brazil. I am a Systems Analyst, Scrum Master and CEO of BYTE4U. I am passionate about data.
+- 👋 Hello! I’m Samah from Brazil. I'm a Systems Analyst, Scrum Master and CEO of BYTE4U. I'm passionate about data.
 - 👀 I would like to contribute to the community through my tutorials.
 - 🌱 We will go through several technologies like SQL, Java, Python, XML, JSON and more.
-- 💞️ Little by little I am uploading my work and soon I will be recording the tutorials on video.
-- 📫 Send me a e-mail: byte4u.byte4u@gmail.com
+- 💞️ Little by little I am uploading my work and soon I will be recording the tutorials in video.
+- 📫 Send me an e-mail: byte4u.byte4u@gmail.com 
 
    
