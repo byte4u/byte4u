@@ -1,6 +1,5 @@
 ![](/logo.png)
-
-
+## 
 - 👋 Hello! I’m Samah from Brazil. I'm a Systems Analyst, Scrum Master and CEO of BYTE4U. I'm passionate about data.
 - 👀 I would like to contribute to the community through my tutorials.
 - 🌱 We will go through several technologies like SQL, Java, Python, XML, JSON and more.
